@@ -10,7 +10,7 @@
 - 💰 Apps de alto valor}
 - 📞 950139978 🇵🇪
 
-## Sobre nosotros
+## Sobre SAYRIDEV
 
 - 💰 Apps de alto valor
 - 📰 Documentación oficial
