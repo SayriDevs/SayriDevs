@@ -5,8 +5,9 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
 - 🏢 CEO de SayriDev
+- 📲 Mobile developer
 - 💰 Apps de alto valor
+- 📰 Documentación oficial
 - 📞 950139978 PE
 - 🇪🇸 Contenido en español
