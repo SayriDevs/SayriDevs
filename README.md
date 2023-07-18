@@ -12,4 +12,4 @@
 
 - 💰 Apps de alto valor
 - 📰 Documentación oficial
-- 🇪🇸 Contenido en español
+-  🇪🇸 Contenido en español
