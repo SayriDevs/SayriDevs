@@ -16,16 +16,15 @@ Soy un desarrollador que a encontrado el gusto por solucionar problemas.
 ---
 
 ## 💡 Sobre **SayriDev**
-**SayriDev** es mi nombre de desarrollador serio, pero a 
 
-- 💰 Desarrollo de **apps de alto valor**
-- 📄 **Documentación oficial** clara y accesible
-- 🇪🇸 **Contenido en español** para la comunidad tech
+- 💰 Desarrollo de **apps de alto valor**.
+- 📄 **Documentación oficial** clara y accesible.
+- 🇪🇸 **Contenido en español** para la comunidad tech.
 
 ---
 
 <div align="center">
   <a href="https://yolabysayri.com/sayri.html" target="_blank">
-    🌐 yolabysayri.com
+    🌐 yolabysayri.com/sayri.html
   </a>
 </div>
