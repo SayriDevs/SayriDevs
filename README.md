@@ -25,7 +25,7 @@ Soy un desarrollador que a encontrado el gusto por solucionar problemas.
 ---
 
 <div align="center">
-  <a href="[https://sayridev.com](https://yolabysayri.com/sayri.html)" target="_blank">
+  <a href="https://yolabysayri.com/sayri.html" target="_blank">
     🌐 yolabysayri.com
   </a>
 </div>
